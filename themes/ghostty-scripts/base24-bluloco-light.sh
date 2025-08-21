@@ -20,7 +20,7 @@ EOF
 }
 
 
-ghostty_palette_color_0="#f7f7f7"
+ghostty_palette_color_0="#dddee8"
 ghostty_palette_color_1="#c80d41"
 ghostty_palette_color_2="#208839"
 ghostty_palette_color_3="#1085d9"
@@ -28,7 +28,7 @@ ghostty_palette_color_4="#1d44dd"
 ghostty_palette_color_5="#6d1bed"
 ghostty_palette_color_6="#1e4d7a"
 ghostty_palette_color_7="#000000"
-ghostty_palette_color_8="#dddee8"
+ghostty_palette_color_8="#a6a7ae"
 ghostty_palette_color_9="#fb496d"
 ghostty_palette_color_10="#34b253"
 ghostty_palette_color_11="#b79326"
@@ -76,7 +76,7 @@ palette = 20=$ghostty_palette_color_20
 palette = 21=$ghostty_palette_color_21
 
 # Foreground & background colors
-background = $ghostty_palette_color_0
+background = #f7f7f7
 foreground = $ghostty_palette_color_7
 cursor-color = $ghostty_palette_color_7
 selection-background = $ghostty_palette_color_8
